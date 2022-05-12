@@ -1,7 +1,7 @@
 ---
 
-👋 Hi, I’m @Poveii, real name? Pablo
+👋 Opa, eu sou o @Poveii, vulgo Pablo / Hi, I’m @Poveii! Real name? Pablo.
 
-😊 I’m interested in applicatons that works and change lifes!
+😊 Eu foco em criar aplicações que funciona e transformam vidas! / I’m interested in applicatons that works and change lifes!
 
-🌱 I’m currently learning Python and PHP.
+🌱 Eu estou aprendendo Python e PHP / I’m currently learning Python and PHP.
