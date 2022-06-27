@@ -1,7 +1,5 @@
----
+## 👋 Opa, eu sou o Poveii (se lê Pô véi mesmo)
 
-👋 Opa, eu sou o @Poveii, vulgo Pablo / Hi, I’m @Poveii! Real name? Pablo.
+- #### 🌱 Eu estou aprendendo HTML, CSS e Javascript.
 
-😊 Eu foco em criar aplicações que funciona e transformam vidas! / I’m interested in applicatons that works and change lifes!
-
-🌱 Eu estou aprendendo Python e PHP / I’m currently learning Python and PHP.
+- #### 💻 Fiz alguns projetos que você pode ver por aqui no meu Github
