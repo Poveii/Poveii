@@ -1,5 +1,5 @@
-## 👋 Opa, eu sou o Poveii (se lê Pô véi mesmo)
+# 👋 Hi, I'm Poveii!
 
-- #### 🌱 Eu estou aprendendo HTML, CSS e Javascript.
+- 🌱 I'm learning HTML, CSS and Javascript.
 
-- #### 💻 Fiz alguns projetos que você pode ver por aqui no meu Github
+- 💻 I made some projects that you can see here on my Github
