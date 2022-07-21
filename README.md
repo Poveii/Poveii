@@ -6,7 +6,7 @@
 
 ## 🌎 Where you can contact me:
 
-- <a href="https://www.linkedin.com/in/poveii/">
+- <a href="https://www.linkedin.com/in/poveii/" target="_blank" rel="noreferrer noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 16px; height: 16px" /> 
     LinkedIn
   </a>
