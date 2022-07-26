@@ -23,7 +23,7 @@
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=poveii&theme=swift&show_icons=true" alt="Poveii's GitHub stats" />
     
-  <a align="right" href="https://github.com/poveii/github-readme-stats" target="_blank" rel="noreferrer noopener">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poveii&layout=compact&theme=swift" alt="Top Langs" />
+  <a href="https://github.com/poveii/github-readme-stats" target="_blank" rel="noreferrer noopener">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poveii&layout=compact&theme=swift" alt="Top Langs" />
   </a>
 </div>
