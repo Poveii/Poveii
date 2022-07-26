@@ -20,10 +20,9 @@
 
 ## 📃 Status
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=poveii&theme=swift&show_icons=true" alt="Poveii's GitHub stats" style="width: 480px;"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=poveii&theme=swift&show_icons=true" alt="Poveii's GitHub stats" style="width: 480px;"/>
     
-  <a href="https://github.com/poveii/github-readme-stats" target="_blank" rel="noreferrer noopener">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poveii&layout=compact&theme=swift" alt="Top Langs" />
-  </a>
-</div>
+<a href="https://github.com/poveii/github-readme-stats" target="_blank" rel="noreferrer noopener">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poveii&layout=compact&theme=swift" alt="Top Langs" />
+</a>
+
