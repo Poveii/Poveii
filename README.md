@@ -1,8 +1,13 @@
 # 👋 Hi, I'm Poveii!
 
-- 🌱 I'm learning HTML, CSS and Javascript.
+- 🌱 I'm learning and improving HTML, CSS and Javascript.
 
-- 💻 I made some projects that you can see here on my Github
+- 🎯 My goal is get a job to help my family.
+
+- 💻 I made some projects that you can see here on my Github, like:
+  * <a href="https://github.com/Poveii/21DiasdeCodigo" target="_blank" rel="noreferrer noopener">Twenty-One days coding</a>
+  * <a href="https://github.com/Poveii/dev-gamer" target="_blank" rel="noreferrer noopener">Dev Gamer</a>
+  * <a href="https://github.com/Poveii/devlinks" target="_blank" rel="noreferrer noopener">DevLinks</a>
 
 ## 🌎 Where you can contact me:
 
@@ -21,13 +26,11 @@
     Instagram
   </a>
 
-- ( Work in progress )
-
 ## 📃 Status
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=poveii&theme=swift&show_icons=true" alt="Poveii's GitHub stats" style="width: 420px;"/>
     
 <a href="https://github.com/poveii/github-readme-stats" target="_blank" rel="noreferrer noopener">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poveii&layout=compact&theme=swift" alt="Top Langs" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poveii&layout=compact&theme=swift" alt="Poveii's Top Languages" />
 </a>
 
