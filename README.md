@@ -1,15 +1,16 @@
-# 👋 Hi, I'm Poveii!
+# ✌️ Olá, eu sou o Poveii!
+*mas meu nome de verdade é Pablo Gabriel*
 
-- 🌱 I'm learning and improving HTML, CSS and Javascript.
+- 🌱 Eu estou aprendendo e ficando melhor em HTML, CSS e Javascript.
 
-- 🎯 My goal is get a job to help my family.
+- 🎯 Minha meta é conseguir um emprego para ajudar minha família.
 
-- 💻 I made some projects that you can see here on my Github, like:
-  * <a href="https://github.com/Poveii/21DiasdeCodigo" target="_blank" rel="noreferrer noopener">Twenty-One days coding</a>
+- 💻 Eu fiz alguns projetos que você pode ver aqui no meu Github, como:
+  * <a href="https://github.com/Poveii/21DiasdeCodigo" target="_blank" rel="noreferrer noopener">21 dias de código</a>
   * <a href="https://github.com/Poveii/dev-gamer" target="_blank" rel="noreferrer noopener">Dev Gamer</a>
   * <a href="https://github.com/Poveii/devlinks" target="_blank" rel="noreferrer noopener">DevLinks</a>
 
-## 🌎 Where you can contact me:
+## 🌎 Onde você pode me encontrar e a gente ter uma conversa:
 
 - <a href="https://www.linkedin.com/in/poveii/" target="_blank" rel="noreferrer noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 16px; height: 16px" /> 
@@ -28,9 +29,9 @@
 
 ## 📃 Status
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=poveii&theme=swift&show_icons=true" alt="Poveii's GitHub stats" style="width: 420px;"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=poveii&theme=swift&show_icons=true" alt="Estatísticas do Github do Poveii, como quantas estrelas ele ganhou até agora ou quantos commits ele fez." style="width: 420px;"/>
     
 <a href="https://github.com/poveii/github-readme-stats" target="_blank" rel="noreferrer noopener">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poveii&layout=compact&theme=swift" alt="Poveii's Top Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poveii&layout=compact&theme=swift" alt="As linguagens mais usadas pelo Poveii." />
 </a>
 
