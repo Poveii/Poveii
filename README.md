@@ -13,17 +13,17 @@
 ## 🌎 Onde você pode me encontrar e a gente ter uma conversa:
 
 - <a href="https://www.linkedin.com/in/poveii/" target="_blank" rel="noreferrer noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 16px; height: 16px" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Ícone do LinkedIn" style="width: 16px; height: 16px" /> 
     LinkedIn
   </a>
 
 - <a href="https://www.tabnews.com.br/Poveii/" target="_blank" rel="noreferrer noopener">
-    <img src="https://raw.githubusercontent.com/agjunior/tabnews-browser/e82fc22ed31e897730ca15aca709e01de7e8edb9/images/logo.svg" style="width: 14px; height: 14px" /> 
+    <img src="https://raw.githubusercontent.com/agjunior/tabnews-browser/e82fc22ed31e897730ca15aca709e01de7e8edb9/images/logo.svg" alt="Ícone do Tabnews" style="width: 14px; height: 14px" /> 
     Tabnews
   </a>
   
 - <a href="https://www.instagram.com/poveiii/" target="_blank" rel="noreferrer noopener">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" style="width: 16px; height: 16px" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Ícone do Instagram" style="width: 16px; height: 16px" />
     Instagram
   </a>
 
