@@ -7,7 +7,7 @@
 
 - 💻 Eu fiz alguns projetos que você pode ver aqui no meu Github, como:
   * <a href="https://github.com/Poveii/21DiasdeCodigo" target="_blank" rel="noreferrer noopener">21 dias de código</a>
-  * <a href="https://github.com/Poveii/dev-gamer" target="_blank" rel="noreferrer noopener">Dev Gamer</a>
+  * <a href="https://github.com/Poveii/game-hub" target="_blank" rel="noreferrer noopener">Game Hub</a>
   * <a href="https://github.com/Poveii/devlinks" target="_blank" rel="noreferrer noopener">DevLinks</a>
 
 ## 🌎 Onde você pode me encontrar e a gente ter uma conversa:
