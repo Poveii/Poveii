@@ -10,6 +10,8 @@
   * <a href="https://github.com/Poveii/game-hub" target="_blank" rel="noreferrer noopener">Game Hub</a>
   * <a href="https://github.com/Poveii/devlinks" target="_blank" rel="noreferrer noopener">DevLinks</a>
 
+- 👨‍💻 <span>E aqui tem meu <a href="https://poveii.github.io/mini-portfolio/" target="_blank" rel="noreferrer noopener">Mini Portfólio</a>!</span>
+
 ## 🌎 Onde você pode me encontrar e a gente ter uma conversa:
 
 - <a href="https://www.linkedin.com/in/poveii/" target="_blank" rel="noreferrer noopener">
