@@ -1,14 +1,14 @@
 # ✌️ Olá, eu sou o Poveii!
 *mas meu nome de verdade é Pablo Gabriel*
 
-- 🌱 Eu estou aprendendo e ficando melhor em HTML, CSS e Javascript.
+- 🛹 Eu estou aprendendo ReactJS e me aprimorando em Javascript.
 
-- 🎯 Minha meta é conseguir um emprego para ajudar minha família.
+- 🎯 Minha meta é conseguir um emprego como desenvolvedor frontend.
 
 - 💻 Eu fiz alguns projetos que você pode ver aqui no meu Github, como:
-  * <a href="https://github.com/Poveii/21DiasdeCodigo" target="_blank" rel="noreferrer noopener">21 dias de código</a>
-  * <a href="https://github.com/Poveii/game-hub" target="_blank" rel="noreferrer noopener">Game Hub</a>
-  * <a href="https://github.com/Poveii/devlinks" target="_blank" rel="noreferrer noopener">DevLinks</a>
+  * <a href="https://github.com/Poveii/habits" target="_blank" rel="noreferrer noopener">Habits</a>
+  * <a href="https://github.com/Poveii/blizzard-site" target="_blank" rel="noreferrer noopener">Blizzard Site</a>
+  * <a href="https://github.com/Poveii/aluratube" target="_blank" rel="noreferrer noopener">Aluratube</a>
 
 - 👨‍💻 <span>E aqui tem meu <a href="https://poveii.github.io/mini-portfolio/" target="_blank" rel="noreferrer noopener">Mini Portfólio</a>!</span>
 
