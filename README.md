@@ -6,11 +6,11 @@
 - 🎯 Minha meta é conseguir um emprego como desenvolvedor frontend.
 
 - 💻 Eu fiz alguns projetos que você pode ver aqui no meu Github, como:
-  * <a href="https://github.com/Poveii/habits" target="_blank" rel="noreferrer noopener">Habits</a>
-  * <a href="https://github.com/Poveii/blizzard-site" target="_blank" rel="noreferrer noopener">Blizzard Site</a>
-  * <a href="https://github.com/Poveii/aluratube" target="_blank" rel="noreferrer noopener">Aluratube</a>
+  * [Habits](https://github.com/Poveii/habits)
+  * [Blizzard Site](https://github.com/Poveii/blizzard-site)
+  * [Aluratube](https://github.com/Poveii/aluratube)
 
-- 👨‍💻 <span>E aqui tem meu <a href="https://poveii.github.io/mini-portfolio/" target="_blank" rel="noreferrer noopener">Mini Portfólio</a>!</span>
+- 👨‍💻 <span>E aqui tem meu <a href="https://poveii.github.io/mini-portfolio/">Mini Portfólio</a>!</span>
 
 ## 🌎 Onde você pode me encontrar e a gente ter uma conversa:
 
