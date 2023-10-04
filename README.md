@@ -1,16 +1,13 @@
 # ✌️ Olá, eu sou o Poveii!
-*mas meu nome de verdade é Pablo Gabriel*
 
-- 🛹 Eu estou aprendendo ReactJS e me aprimorando em Javascript.
+- 🛹 Eu estou aprendendo NextJS e um pouco de NodeJS.
 
 - 🎯 Minha meta é conseguir um emprego como desenvolvedor frontend.
 
 - 💻 Eu fiz alguns projetos que você pode ver aqui no meu Github, como:
-  * [Habits](https://github.com/Poveii/habits)
+  * [Tasks API](https://github.com/Poveii/tasks-api)
   * [Blizzard Site](https://github.com/Poveii/blizzard-site)
-  * [Aluratube](https://github.com/Poveii/aluratube)
-
-- 👨‍💻 <span>E aqui tem meu <a href="https://poveii.github.io/mini-portfolio/">Mini Portfólio</a>!</span>
+  * [DoUTasks](https://github.com/Poveii/doUTasks)
 
 ## 🌎 Onde você pode me encontrar e a gente ter uma conversa:
 
